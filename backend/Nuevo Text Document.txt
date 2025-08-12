@@ -1,0 +1,1 @@
+esta carpeta contiene los procedimientos almacenados creados, scripts de tablas, scripts de insertar registros y algunos apuntes para ejecutar los sp's
